@@ -1,0 +1,56 @@
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0044.jpg 111,11,215,155,1 53,165,173,288,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0441.jpg 296,163,686,719,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0486.jpg 403,70,563,250,0
+/home/jackzhou/Downloads/mask_dataset/image_mask/0461.jpg 337,44,520,252,0
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0535.jpg 139,165,209,247,1 206,170,249,237,1 260,162,303,233,1 283,116,341,189,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0324.jpg 439,21,672,340,0
+/home/jackzhou/Downloads/mask_dataset/image_mask/0258.jpg 251,111,371,262,0
+/home/jackzhou/Downloads/mask_dataset/image_mask/0239.jpg 41,7,449,477,0
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0641.jpg 269,95,401,247,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0016.jpg 530,19,777,341,0
+/home/jackzhou/Downloads/mask_dataset/image_mask/0080.jpg 385,256,472,358,0
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0423.jpg 268,74,401,232,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0307.jpg 434,110,611,347,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0150.jpg 486,87,750,451,0
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0311.jpg 269,136,743,918,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0306.jpg 280,96,409,234,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0179.jpg 412,86,575,295,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0035.jpg 368,70,555,313,0
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0172.jpg 388,24,487,139,1 585,46,668,127,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0479.jpg 361,72,617,386,0
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0327.jpg 257,166,708,663,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0610.jpg 12,3,223,217,1 415,177,561,333,1 615,119,754,295,1 798,39,971,249,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0407.jpg 380,46,688,445,0
+/home/jackzhou/Downloads/mask_dataset/image_mask/0326.jpg 434,6,788,421,0
+/home/jackzhou/Downloads/mask_dataset/image_mask/0205.jpg 145,128,219,220,0 231,170,286,234,0 386,187,433,239,0 554,122,618,200,0
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0646.jpg 307,109,417,236,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0642.jpg 221,95,389,295,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0265.jpg 255,88,393,249,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0490.jpg 418,87,525,217,0
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0379.jpg 434,27,616,263,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0419.jpg 218,86,371,266,1 728,22,960,267,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0494.jpg 337,92,640,452,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0041.jpg 384,77,538,295,0
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0376.jpg 182,193,803,1026,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0346.jpg 279,125,398,262,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0102.jpg 243,191,352,319,1 517,151,645,312,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0100.jpg 342,137,454,266,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0038.jpg 145,30,698,735,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0211.jpg 231,49,548,415,0
+/home/jackzhou/Downloads/mask_dataset/image_mask/0372.jpg 336,72,579,368,0
+/home/jackzhou/Downloads/mask_dataset/image_mask/0364.jpg 300,95,541,376,0
+/home/jackzhou/Downloads/mask_dataset/image_mask/0266.jpg 109,163,291,373,0 712,268,874,448,0
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0334.jpg 499,38,826,510,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0132.jpg 151,164,189,208,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0293.jpg 413,68,592,324,0
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0458.jpg 320,31,675,531,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0192.jpg 94,145,175,228,1 243,174,314,264,1 385,206,454,284,1 515,160,599,245,1 672,108,748,196,1 829,89,900,172,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0139.jpg 185,32,395,309,0
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0118.jpg 307,173,497,439,1 670,219,842,435,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0008.jpg 265,66,513,375,0
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0257.jpg 203,226,693,941,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0243.jpg 196,13,516,442,0
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0426.jpg 90,56,184,164,1 295,85,371,187,1 476,55,567,164,1 686,65,779,173,1 861,49,963,165,1
+/home/jackzhou/Downloads/mask_dataset/image_nomask/0569.jpg 228,140,372,306,1
+/home/jackzhou/Downloads/mask_dataset/image_mask/0061.jpg 471,107,623,295,0
+/home/jackzhou/Downloads/mask_dataset/image_mask/0091.jpg 421,9,724,398,0
